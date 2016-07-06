@@ -1,0 +1,43 @@
+.social-cinema-holder{
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.other_social_cinema_videos{
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.social-cinema-holder iframe,
+.social-cinema-dummy{
+	width: 100%;
+	min-height: 550px;
+}
+
+.other_social_cinema_videos p{
+	margin: 0px;
+	padding: 0px;
+}
+
+.other_social_cinema_videos img{
+	margin-right: 10px;
+	width: 120px;
+	vertical-align: top;
+	background: #000;
+	min-height: 90px;
+}
+
+.social-cinema-holder-wall{
+	display: inline-block;
+	vertical-align: top;
+	margin: 1%;
+}
+
+.social-cinema-holder-wall iframe,
+.social-cinema-holder-wall video{
+	width: 100%;
+	height: 100%;
+	background: #000;
+}
